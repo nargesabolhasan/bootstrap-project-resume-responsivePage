@@ -1,3 +1,16 @@
 ul li{
     display: inline-block;
+    margin-right: 50px;
+    font-size: 15px;
+}
+#lastLi{
+    margin-right: 400px;
+}
+#logo{
+    margin-left: 100px;
+    margin-right:400px;
+    float: left;
+}
+.firstNav{
+
 }
