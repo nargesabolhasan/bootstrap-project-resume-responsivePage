@@ -16,14 +16,17 @@ li{
 }
 .li1{
     display: inline-block;
-    margin:30px;
-
+    margin:20px;
+    padding-top: 10px;
+    font-size:12px;
+    color:rgb(1, 176, 219) ;
 }
 
 #logo{    
     width: 70px;
     float: left;
     margin:10px;
+    margin-right: 120px;
    }
 .clearfix {
     clear: both;
@@ -37,8 +40,17 @@ li{
     margin:30px 20px;
 }
 .gray{
+    font-size: 12px;
     color: rgb(88, 88, 88);
     margin-right: 0px;
+}
+#home:hover{
+    color: rgb(245, 213, 34);
+    border-top: 1px solid rgb(245, 213, 34) ;
+}
+#login{
+    border-left: 1px solid rgb(88, 88, 88);
+    padding-left: 5px;
 }
 .secoundNav{
     background-color:rgb(1, 176, 219) ;
