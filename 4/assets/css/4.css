@@ -169,3 +169,15 @@ color: gray;
     font-size: 13px;
     color: gray;   
         }
+.lastNav{
+    background-color:rgb(1, 176, 219) ;
+    height: 25px; 
+    margin-top: 6px;  
+}
+#lastNav-p{
+    text-align: center;
+    padding:5px;
+    color: white;
+    font-size: 13px;
+
+}
