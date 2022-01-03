@@ -1,22 +1,66 @@
-ul li{
+*,*::after,*::before{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: inherit;
+}
+body{
+    box-sizing: border-box;
+}
+li{
     display: inline-block;
-    margin-right: 50px;
-    font-size: 15px;
-    color: rgb(1, 176, 219);
 }
-#lastLi{
-    margin-right: 400px;
+
+.main{
+    width: 60%;
+    margin: 0 auto;
 }
-#login{
-    border-left: 1px solid rgb(88, 88, 88);
-    padding-left: 5px;
+.li1{
+    display: inline-block;
+    margin-right:50PX ;
+    margin-bottom: 30px;
+}
+#logo{    
+    float: left;
+    margin-top: 50x;
+   }
+.clearfix {
+    clear: both;
+  }
+.center{
+    margin-bottom: 30px;
+}
+.last{
+    float: right;
+    margin:30px 0px;
 }
 .gray{
     color: rgb(88, 88, 88);
     margin-right: 0px;
 }
-#logo{
-    margin-left: 100px;
-    margin-right:400px;
-    float: left;
+.secoundNav{
+    background-color:rgb(1, 176, 219) ;
+    height: 60px;
 }
+.ul2{
+    color: white;
+}
+#last-ul-2{
+    float: right;
+}
+.ul2{
+    color: white;
+    margin: 20px;
+}
+#last-nav-2{
+ float: right;
+}
+.caption{
+ text-align: center;
+ margin:50px;
+    
+}
+
+h1{
+text-align: center;
+margin: 15px;
+} 
