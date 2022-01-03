@@ -1,0 +1,19 @@
+.c-subject{
+    margin: 5% 0%;
+text-align: center;
+
+}
+#c-underline{
+    border-top: 4px solid gray;
+    width: 5%;
+    margin: 0 auto;
+
+}
+.c-subject-p{
+    margin-top: 20px;
+}
+h5{
+    font-size:20px;
+    padding-top:50px;
+    text-align: center;
+}
