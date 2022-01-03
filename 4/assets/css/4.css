@@ -128,23 +128,22 @@ h1{
 h3{
  float: left;
  color: white;
- margin:15px 40px;
+ margin:15px 50px;
  font-weight: 10;
 }
 .info-a{
 float:left;
 margin-top:10px;
-margin-left: 40px;
-width: 20%;
-font-size: 12px;
+margin-left: 50px;
+width:25%;
+font-size: 13px;
 color: gray;
 }
 .info-b{    
-width: 40%;
 float:left;
 margin-top:10px;
-margin-left: 40px;
-font-size: 12px;
+margin-left: 50px;
+font-size: 13px;
 color: gray;   
 }
 .ol li {
@@ -152,8 +151,21 @@ color: gray;
     list-style-type: decimal;
 }
 #info-b-p{
-    color: black;
+    color: rgb(63, 63, 63);
     margin-bottom:2p;
-    font-size: 12px;
-    font-weight: 5;
+    font-size: 13px;
 }
+.info-c{    
+    float:left;
+    margin-top:10px;
+    margin-left:50px;
+    font-size: 13px;
+    color: gray;   
+    }
+.info-d{    
+    float:left;
+    margin-top:10px;
+    margin-left:50px;
+    font-size: 13px;
+    color: gray;   
+        }
