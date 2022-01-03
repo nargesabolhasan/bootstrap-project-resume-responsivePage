@@ -71,6 +71,7 @@ h1{
  margin:10px;
  box-shadow:2px -3px 10px 5px rgb(209, 209, 209);
  border-radius:1%;
+ border: 0.5px solid rgb(209, 209, 209);
 }
 .gallery-pic{
  width:300px;
