@@ -1,10 +1,11 @@
 .c-subject{
-    margin: 5% 0%;
+margin: 5% 0%;
 text-align: center;
+color: gray;
 
 }
 #c-underline{
-    border-top: 4px solid gray;
+    border-top: 4px solid rgb(68, 68, 68);
     width: 5%;
     margin: 0 auto;
 
@@ -14,6 +15,9 @@ text-align: center;
 }
 h5{
     font-size:20px;
-    padding-top:50px;
+    padding-top:10px;
+}
+.c-paragraph{
     text-align: center;
+    padding-top:50px;
 }
