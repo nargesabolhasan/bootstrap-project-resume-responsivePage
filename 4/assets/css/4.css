@@ -162,6 +162,10 @@ color: gray;
     display: block;
     list-style-type: decimal;
 }
+ol li{
+    display: block;
+    list-style-type: decimal;
+}
 #info-b-p{
     color: rgb(63, 63, 63);
     margin-bottom:2p;
