@@ -1,11 +1,31 @@
 #hello{
     position: absolute;
-    top: -150px;
-    font-family: 'Dancing Script', cursive;
-    font-family: 'Fuzzy Bubbles', cursive;
-    font-family: 'Lobster', cursive;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Vujahday Script', cursive;
+    font-size: 70px;
+    top: -350px;
+    font-family: 'Concert One', cursive;
+    text-shadow: 4px 5px 10px black;
+}
+.c-Tittle-carousel{
+    font-size: 40px;
+    position: absolute;
+    top: -250px;
+    left: 0px;
+    text-shadow: 4px 5px 10px black;
+}
+.c-p-carousel{
+    position: absolute;
+    top: -190px;
+    left: 0px;   
+    font-size: 20px; 
+    text-shadow: 4px 5px 10px black;
+}
+.c-Tittle3-carousel{
+    font-size: 40px;
+    text-shadow: 4px 5px 10px black;
+}
+.c-p3-carousel{
+    font-size: 20px; 
+    text-shadow: 4px 5px 10px black;
 }
 .c-subject{
 margin: 5% 0%;
