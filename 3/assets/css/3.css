@@ -20,3 +20,6 @@ h5{
 .c-paragraph{
     text-align: center;
 }
+.c-last-ul{
+    list-style-type: none;
+}
