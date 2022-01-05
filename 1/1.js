@@ -15,4 +15,19 @@ class Jack{
         }else{
             ans=mb-mi
         }
-      
+        this.secondsToHms(ans)   
+    }
+    secondsToHms(d) {
+        d = Number(d);
+        var h = Math.floor(d % 360 / 60);
+        var m = Math.floor(d % 360 % 60);
+        const ansarr=[]
+        ansarr.push(h,m)
+       console.log(ansarr) ; 
+    }
+}
+let myobj=new Jack()
+let obj=new Date("2022 1 1 2:00:00 pm")
+let obj2=new Date("2022 1 1 5:50:00 pm")
+myobj.nextEat(obj2)
+myobj.nextEat(obj)
