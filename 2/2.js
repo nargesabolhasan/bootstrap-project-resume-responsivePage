@@ -49,4 +49,11 @@ const stackCalculator = (str) => {
         //     }
         //     numStack.push(ans)
         //     }        
-    
+        
+})
+return numStack
+}
+}
+console.log(stackCalculator(""))
+console.log(stackCalculator("45-"))
+console.log(stackCalculator("6557*-/"))
