@@ -60,3 +60,17 @@ h5{
     display: flex;
     justify-content: center;
 }
+
+@media only screen and (max-width: 988px) {
+    .c-box-order{
+        order:1
+    }
+    
+}
+
+@media only screen and (max-width: 766px) {
+    .c-box-order{
+        order:0
+    }
+    
+}
