@@ -56,3 +56,7 @@ h5{
 .c-last-ul{
     list-style-type: none;
 }
+.c-circles{
+    display: flex;
+    justify-content: center;
+}
