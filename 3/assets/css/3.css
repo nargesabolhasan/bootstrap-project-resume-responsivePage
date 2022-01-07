@@ -60,6 +60,9 @@ h5{
     display: flex;
     justify-content: center;
 }
+.c-font{
+    font-family: 'Concert One', cursive; 
+}
 
 @media only screen and (max-width: 988px) {
     .c-box-order{
