@@ -1,3 +1,7 @@
+.c-navbar-right{
+    margin-right: 0%;
+    justify-content: flex-end;
+}
 #hello{
     position: absolute;
     font-size: 70px;
